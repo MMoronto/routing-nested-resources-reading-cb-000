@@ -2489,3 +2489,5 @@ Processing by AuthorsController#post as HTML
 Completed 200 OK in 614ms (Views: 589.9ms | ActiveRecord: 1.3ms)
 
 
+Started GET "/authors/1/posts" for 76.124.168.60 at 2020-07-09 16:06:07 +0000
+Cannot render console from 76.124.168.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
